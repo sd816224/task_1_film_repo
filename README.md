@@ -10,15 +10,15 @@ Once you have forked, cloned, and copied this repo locally, you will want to ope
 
 When you open a new instance of VSCode, you should be greeted with a welcome page. Under the **Start** section of this page are three options (New file, Open, Clone Git Repository). Click on the **Open** link, and you can then navigate to the local folder where you copied this repo.
 
-If you do not see the welcome screen, no worries! In the left-hand navigation bar, you should see an icon that looks like two pieces of paper. Clicking on this will also give you the option to **Open Folder** in the same way.
+If you do not see the welcome screen, no worries! In the left-hand menu bar, you should see an icon that looks like two pieces of paper. Clicking on this will also give you the option to **Open Folder** in the same way.
 
-Alternatively, clicking on **File** on the top navigation bar should also present you with a list of options, including **Open Folder**.
+Alternatively, clicking on **File** on the top menu bar should also present you with a list of options, including **Open Folder**.
 
 ### Open a terminal
 
 In order to open a terminal, you can use the following keyboard shortcut: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
 
-Alternatively, clicking on **Terminal** on the top navigation bar will show you the terminal options, including **New Terminal**.
+Alternatively, clicking on **Terminal** on the top menu bar will show you the terminal options, including **New Terminal**.
 
 ### Viewing this file in VSCode
 
