@@ -2,7 +2,25 @@
 
 This repo will give you a chance to use the command line to make changes to the files and directories in this repo, as well as adding, committing, and pushing those changes to GitHub.
 
-## Viewing this file in VSCode
+## Opening and viewing this file in VSCode
+
+Once you have forked, cloned, and copied this repo locally, you will want to open it inside VSCode.
+
+### Opening a directory
+
+When you open a new instance of VSCode, you should be greeted with a welcome page. Under the **Start** section of this page are three options (New file, Open, Clone Git Repository). Click on the **Open** link, and you can then navigate to the local folder where you copied this repo.
+
+If you do not see the welcome screen, no worries! In the left-hand navigation bar, you should see an icon that looks like two pieces of paper. Clicking on this will also give you the option to **Open Folder** in the same way.
+
+Alternatively, clicking on **File** on the top navigation bar should also present you with a list of options, including **Open Folder**.
+
+### Open a terminal
+
+In order to open a terminal, you can use the following keyboard shortcut: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
+
+Alternatively, clicking on **Terminal** on the top navigation bar will show you the terminal options, including **New Terminal**.
+
+### Viewing this file in VSCode
 
 For a better way of viewing `.md` files, right click on this file in your file explorer in VSCode and click `Open Preview`. That should make it easier to see all the nice formatting!
 
